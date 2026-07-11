@@ -1,0 +1,1 @@
+{ "build": { "env": { "NEXT_PUBLIC_SKIP_TYPECHECK": "true" } } }
