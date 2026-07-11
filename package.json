@@ -1,0 +1,30 @@
+{
+  "name": "albaraa-real-estate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "@babel/preset-react": "^8.0.1",
+    "@tailwindcss/postcss": "^4.3.2",
+    "@types/node": "26.1.1",
+    "@types/react": "19.2.17",
+    "autoprefixer": "^10.5.2",
+    "typescript": "7.0.2"
+  },
+  "dependencies": {
+    "@prisma/client": "7.8.0",
+    "dotenv": "^17.4.2",
+    "next": "^14.2.35",
+    "postcss": "^8.5.16",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^4.3.2"
+  }
+}
