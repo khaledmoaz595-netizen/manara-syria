@@ -21,6 +21,7 @@
   "dependencies": {
     "@prisma/client": "7.8.0",
     "dotenv": "^17.4.2",
+    "geist": "^1.7.2",
     "next": "^14.2.35",
     "postcss": "^8.5.16",
     "react": "^18.3.1",
